@@ -1,9 +1,9 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Introducion
+Welcome to the Practical Course Project ‘Data Structures’ for the 2024/2025 academic year.
+Indonesian Open University.
+Bandung Region.
 
 ## Folder Structure
-
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
@@ -12,6 +12,7 @@ The workspace contains two folders by default, where:
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
 
 ## Dependency Management
 
